@@ -19,16 +19,6 @@ The project provides RESTful APIs for user registration, update, and retrieval.
 - Global exception handling
 - Layered architecture (Controller – Service – Repository)
 
-## Project Structure
-
-src
-├── controller
-├── service
-├── repository
-├── entity
-├── dto
-└── exception
-
 ## API Example
 
 GET /users  
